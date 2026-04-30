@@ -5,6 +5,7 @@
 ​
 # Conteúdo do Notebook
 ​O projeto está estruturado em etapas que cobrem desde o tratamento inicial até a aplicação de algoritmos de Machine Learning:
+
 ​1. Análise Exploratória e Limpeza (EDA)
 ​- Identificação de tendências geográficas e temporais da doença entre 1992 e 2011.
 ​- Tratamento de dados e verificação de correlações entre variáveis demográficas.
